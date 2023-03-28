@@ -1,0 +1,12 @@
+/.ssh
+/.cache
+/.bash_history
+/.lesshst
+/snap
+/docker
+/.viminfo
+/.vim
+/.local
+
+# copy this from .profile.sample
+/.profile
