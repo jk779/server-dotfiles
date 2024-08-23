@@ -102,6 +102,7 @@ alias gco='git checkout'
 alias gd='git diff'
 alias gdca='git diff --cached'
 alias glg='git log'
+alias rsync='rsync --info=progress2'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
